@@ -1,0 +1,55 @@
+#chat3 .form-control {
+    border-color: transparent;
+    }
+    
+    #chat3 .form-control:focus {
+    border-color: transparent;
+    box-shadow: inset 0px 0px 0px 1px transparent;
+    }
+    
+    .badge-dot {
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    margin-left: 2.9rem;
+    margin-top: -.75rem;
+    }
+/* chat */
+    .mx-auto{
+        margin-top: 30px;
+    }
+
+    .send_btn{
+        margin-right: 30px;
+    }
+
+    .home_btn{
+        background-color: #82CD47;
+    }
+
+    .container{
+        display: flex;
+        align-items: center;
+        height: 90vh;
+    }
+
+    .row{
+        height: 70vh;
+    }
+
+    .message_person{
+
+        height: 100%;
+    }
+
+    .message_txt{
+       width: 100%;
+       
+       margin: 0;
+    }
+
+    
+
+    .home_chat{
+        color: #f2f2e2;
+    }
